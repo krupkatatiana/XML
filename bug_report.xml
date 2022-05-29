@@ -1,1 +1,12 @@
-
+<list>
+ 	<Application>AndroidGridTest</Application>
+	<Title>After tapping on the Add widget the app minimizes to tray and new widget doesn't create</Title>
+	<Severity>Blocker</Severity>
+	<Priority>High</Priority>
+	<Environment>Moto Z Play Android 8.0.0</Environment>
+	<Precondition>The app is installed, the phone screen is empty</Precondition>
+	<Step to reproduce 1>Open the app</Step to reproduce 1>
+	<Step to reproduce 2>Tap Add widget button</Step to reproduce 2>
+	<Actual result>Widget doesn't create and the app minimizes to tray</Actual result>
+	<Expected result>Widget created</Expected result>
+</list>	
